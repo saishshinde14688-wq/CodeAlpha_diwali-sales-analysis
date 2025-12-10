@@ -56,9 +56,7 @@ This project was developed by:
 
 **Saish Shinde**
 
-* **GitHub:** ()
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **GitHub:** (https://github.com/saishshinde14688-wq/CodeAlpha_diwali-sales-analysis)
+* **LinkedIn:** [https://www.linkedin.com/in/saish-shinde-a63532392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
-## ⚖️ License
 
-This project is licensed under the **MIT License** - see the `LICENSE` file for details.
